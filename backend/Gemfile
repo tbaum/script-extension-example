@@ -1,0 +1,2 @@
+source :rubygems
+gem 'backend', :git => "git://github.com/tbaum/script-extension-example.git"
